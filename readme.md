@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Healthcare+%26+Financial+Services;AWS+Serverless+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Financial+%26+Healthcare+Systems;AWS+Serverless+%7C+Clean+Architecture;Client-Focused+%7C+Enterprise+Delivery" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 </div>
 
-<h3 align="center">4+ years delivering mission-critical financial systems for enterprise</h3>
+<h3 align="center">4+ years delivering mission-critical financial & healthcare systems for enterprise clients</h3>
 
 ---
 
@@ -87,9 +87,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
       <div align="center">
         <p><strong>⚡ 100+ APIs — 40+ Integrations — 2x Faster Delivery</strong></p>
         <p>
-          <a href="https://github.com/yogigaek?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
+          <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
         </p>
         <p><strong>Tech Stack:</strong></p>
         <p>
@@ -106,9 +104,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
       <div align="center">
         <p><strong>🏗️ Built From Scratch — Full-Stack Internal Tool</strong></p>
         <p>
-          <a href="https://github.com/yogigaek?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
+          <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
         </p>
         <p><strong>Tech Stack:</strong></p>
         <p>
@@ -127,9 +123,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
       <div align="center">
         <p><strong>📈 700% Performance Improvement — 50+ APIs</strong></p>
         <p>
-          <a href="https://github.com/yogigaek?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
+          <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
         </p>
         <p><strong>Tech Stack:</strong></p>
         <p>
@@ -146,9 +140,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
       <div align="center">
         <p><strong>🚀 Platform Modernization Initiative</strong></p>
         <p>
-          <a href="https://github.com/yogigaek?tab=repositories">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
+          <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
         </p>
         <p><strong>Tech Stack:</strong></p>
         <p>
@@ -164,8 +156,8 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 </table>
 
 <div align="center">
-  <a href="https://github.com/yogigaek?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  <a href="https://github.com/yogigaek">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </div>
 
