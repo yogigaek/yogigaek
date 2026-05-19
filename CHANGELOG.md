@@ -4,6 +4,27 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [2.0.2] — 2026-05-13
+
+### Updated: AUDY employment distinction + Messaging section rename
+
+- ✅ **AUDY Healthcare System badge** changed from red "Private · NDA" to green "Full-time · In-house — Healthcare"
+  - **Why:** AUDY was direct full-time employment, not a client NDA engagement — badge now accurately reflects the distinction
+- ✅ **Section renamed** — "Messaging & Events" → "Messaging & Queues" for consistency with GitLab profile and accuracy (RabbitMQ/SQS are queue-based, not event streaming)
+
+---
+
+## [2.0.1] — 2026-05-13
+
+### Added: Messaging & Queues section
+
+- ✅ **New Tech Stack section** — "Messaging & Queues" added between Databases and Cloud & DevOps
+- ✅ **RabbitMQ badge** — self-hosted message broker for microservices
+- ✅ **AWS SQS badge** — managed queue service supporting the event-driven AWS Serverless stack
+- **Why:** Profile claimed "event-driven architectures" but had no messaging tooling in Tech Stack — this closes the gap
+
+---
+
 ## [2.0.0] — 2026-05-13
 
 ### Transform: Text-based profile → Modern professional portfolio
@@ -17,14 +38,14 @@ All notable changes to this GitHub profile README are documented here.
 - ✅ Maintained professional contact channels (Email + LinkedIn + Website)
 
 ### 🎨 Visual Transformation
-- ✅ **Animated typing header** — 3 rotating taglines for dynamic first impression
+- ✅ **Animated typing header** — 4 rotating taglines for dynamic first impression
 - ✅ **Profile view counter** — live engagement tracking
 - ✅ **GitHub Stats** — 3 dynamic auto-updating visualizations:
   - Personal stats (commits, PRs, issues)
   - Top languages distribution
   - Contribution streak tracker
 - ✅ **GitHub Trophies** — achievement showcase (auto-updating)
-- ✅ **25+ technology badges** organized by category
+- ✅ **27+ technology badges** organized by category
 
 ### 📦 Content Enhancement
 - ✅ **Who I Am** section — distinctive expertise with real impact metrics
@@ -42,9 +63,9 @@ All notable changes to this GitHub profile README are documented here.
 |--------|--------|-------|-------------|
 | **Visual Content Ratio** | ~5% | ~60% | +1100% 📈 |
 | **Interactive Elements** | 0 | 4 | ∞ |
-| **Tech Badges** | 0 | 25+ | +25 |
+| **Tech Badges** | 0 | 27+ | +27 |
 | **Stat Visualizations** | 0 | 3 | +3 |
-| **Sections** | 5 | 9 | +80% |
+| **Sections** | 5 | 7 | +40% |
 | **Privacy Risk** | ⚠️ High | ✅ Secure | -100% |
 | **Professional Appeal** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | +67% |
 
@@ -60,7 +81,7 @@ Plain text introduction paragraph
 ```
 **After:**
 ```
-<animated typing header — 3 rotating taglines>
+<animated typing header — 4 rotating taglines>
 [Profile Views] [LinkedIn] [Website] [Email] badges
 "4+ years delivering mission-critical financial systems for enterprise"
 ```
@@ -78,7 +99,8 @@ Plain text introduction paragraph
 Languages:          TypeScript · JavaScript · PHP · Go · Python
 Backend:            Node.js · NestJS · Express.js · Laravel · Serverless · LoopBack · Gin · Flask
 Frontend:           React · Next.js
-Databases:          MySQL · PostgreSQL · MongoDB · Redis
+Databases:          PostgreSQL · MySQL · MongoDB · Redis
+Messaging & Queues: RabbitMQ · AWS SQS
 Cloud & DevOps:     AWS · Lambda · Docker
 Security & Auth:    JWT · OAuth 2.0
 ```
@@ -87,10 +109,10 @@ Security & Auth:    JWT · OAuth 2.0
 **Before:** No dedicated projects section
 
 **After:** 2×2 grid with 4 detailed project cards:
-1. 💳 Financial Platform APIs (Indogrosir) — 100+ APIs, 40+ integrations, 2x faster delivery
+1. 💳 Financial Platform APIs — 100+ APIs, 40+ integrations, 2x faster delivery
 2. 📊 Internal Monitoring Platform — Built from scratch (Laravel + React Inertia + PostgreSQL + MySQL)
 3. 🏥 AUDY Healthcare System — 50+ APIs, 700% performance improvement
-4. 🔄 NestJS Migration Blueprint — Platform modernization initiative
+4. 🔄 NestJS Migration Blueprint — Platform architecture overhaul
 
 ### Contact Section
 **Before:**
@@ -122,7 +144,7 @@ Security & Auth:    JWT · OAuth 2.0
 ## 🎨 Visual Enhancements
 
 ### Dynamic Elements
-- ✅ Animated typing header (3 rotating messages)
+- ✅ Animated typing header (4 rotating messages)
 - ✅ Profile view counter (live tracking)
 - ✅ GitHub stats (auto-updates daily)
 - ✅ Contribution streak (auto-updates)
@@ -132,7 +154,8 @@ Security & Auth:    JWT · OAuth 2.0
 - **Languages:** TypeScript, JavaScript, PHP, Go, Python
 - **Backend:** Node.js, NestJS, Express.js, Laravel, Serverless, LoopBack, Gin, Flask
 - **Frontend:** React, Next.js
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Messaging & Queues:** RabbitMQ, AWS SQS
 - **Cloud/DevOps:** AWS, Lambda, Docker
 - **Security:** JWT, OAuth 2.0
 - **Social:** LinkedIn, Email, Website, GitHub

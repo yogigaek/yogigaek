@@ -11,7 +11,7 @@
 
 </div>
 
-<h3 align="center">4+ years delivering mission-critical financial & healthcare systems for enterprise clients</h3>
+<h3 align="center">4+ years delivering mission-critical financial & healthcare systems for enterprise</h3>
 
 ---
 
@@ -34,6 +34,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 - 🏗️ NestJS microservices migration from Lambda — blueprint for future platform modernization
 - ☁️ Cloud-native financial systems on AWS Serverless & event-driven architectures
 - 🔐 Secure API integrations across banks, fintech partners, and enterprise platforms
+- 📊 Building & evolving an internal monitoring platform from scratch — Laravel, React Inertia, PostgreSQL, and MySQL
 - 🤖 AI-assisted development workflows for accelerated, quality-assured delivery
 
 ---
@@ -50,9 +51,9 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![LoopBack](https://img.shields.io/badge/LoopBack-3F5DBA?style=for-the-badge&logo=loopback&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -62,10 +63,14 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Messaging & Queues
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -96,7 +101,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
           <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/>
           <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square"/>
         </p>
-        <p>Mission-critical financial platform for Indogrosir — payment, credit facilities, POS, and enterprise partner integrations on AWS Serverless</p>
+        <p>Mission-critical financial platform — payment, credit facilities, POS, and enterprise partner integrations on AWS Serverless</p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -123,7 +128,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
       <div align="center">
         <p><strong>📈 700% Performance Improvement — 50+ APIs</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
+          <img src="https://img.shields.io/badge/Full--time_%C2%B7_In--house-Healthcare-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Full-time · In-house"/>
         </p>
         <p><strong>Tech Stack:</strong></p>
         <p>
@@ -138,7 +143,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
     <td width="50%" valign="top">
       <h3 align="center">🔄 NestJS Migration Blueprint</h3>
       <div align="center">
-        <p><strong>🚀 Platform Modernization Initiative</strong></p>
+        <p><strong>🚀 Platform Architecture Overhaul</strong></p>
         <p>
           <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
         </p>
@@ -190,7 +195,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 🏗️  Projects Delivered:   10+ financial service projects (payment, credit, POS)
 🛡️  Security Standards:   OAuth 2.0, HMAC, JWT, RSA, AES-256
 🔧 Legacy Refactored:    10+ services with clean architecture
-⏱️  Enterprise Tenure:    3-year mission-critical engagement
+⏱️  Enterprise Tenure:    4-year mission-critical engagement
 ```
 
 ---
@@ -216,6 +221,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
   **Building financial-grade systems that scale, secure, and deliver.**
 
   <p>
+    <img src="https://img.shields.io/badge/Available_For-Client_Projects-FC6D26?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Available_For-Consulting-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/LeetCode-yogigaek-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </p>
