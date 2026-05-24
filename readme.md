@@ -5,8 +5,8 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yogigaek&color=blueviolet&style=for-the-badge)](https://github.com/yogigaek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yogi-779483248/)
-[![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadyogi.website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogigaek)
+[![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadyogi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogikgaek@gmail.com)
 
 </div>
@@ -21,7 +21,7 @@ Backend Software Engineer specializing in **financial systems** and **AWS Server
 
 **Distinctive Expertise:**
 - ⚡ **2x faster delivery** — Consistently ahead of every deadline across 10+ financial projects
-- 🔗 **40+ integrations** — Banks, fintech partners, POS systems, payment gateways, enterprise platforms
+- 🔗 **50+ integrations** — Banks, fintech partners, POS systems, payment gateways, enterprise platforms
 - 🛡️ **Enterprise-grade security** — OAuth 2.0, HMAC, JWT, RSA, and AES-256 per integration
 - 🚀 **7x performance boost** — Query optimization & materialized views delivering 700% improvement
 
@@ -31,7 +31,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 
 ## 🔭 Currently Working On
 
-- 🏗️ NestJS microservices migration from Lambda — blueprint for future platform modernization
+- 🏗️ NestJS migration — consolidating 3 Lambda projects into a unified monolith (active)
 - ☁️ Cloud-native financial systems on AWS Serverless & event-driven architectures
 - 🔐 Secure API integrations across banks, fintech partners, and enterprise platforms
 - 📊 Building & evolving an internal monitoring platform from scratch — Laravel, React Inertia, PostgreSQL, and MySQL
@@ -152,9 +152,10 @@ Building financial-grade systems with clean architecture, cloud-native design, a
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
         </p>
-        <p>Initiated NestJS migration from Lambda microservices — clean architecture blueprint establishing the standard for future platform modernization</p>
+        <p>Migrated 3 Lambda projects into a unified NestJS monolith — 50+ APIs rebuilt, auth re-engineered (OAuth 2.0, JWT RS256, HMAC-SHA256, AES-256-GCM), full observability via OpenTelemetry</p>
       </div>
     </td>
   </tr>
@@ -189,7 +190,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 
 ```text
 ⚡  Delivery Speed:       2x faster than deadline — every single project
-🔗 Integrations:         40+ banks, fintech partners, enterprise systems
+🔗 Integrations:         50+ banks, fintech partners, enterprise systems
 🚀 APIs Built:           150+ production endpoints (100+ financial, 50+ healthcare)
 📈 Performance:          7x faster queries — 700% reporting improvement
 🏗️  Projects Delivered:   10+ financial service projects (payment, credit, POS)
@@ -204,9 +205,9 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yogi-779483248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogigaek)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogikgaek@gmail.com)
-[![Website](https://img.shields.io/badge/Website-muhammadyogi.website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadyogi.website)
+[![Website](https://img.shields.io/badge/Website-muhammadyogi.vercel.app-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadyogi.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogigaek)
 
 **📧 yogikgaek@gmail.com**
@@ -221,8 +222,6 @@ Building financial-grade systems with clean architecture, cloud-native design, a
   **Building financial-grade systems that scale, secure, and deliver.**
 
   <p>
-    <img src="https://img.shields.io/badge/Available_For-Client_Projects-FC6D26?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Available_For-Consulting-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/LeetCode-yogigaek-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </p>
 </div>

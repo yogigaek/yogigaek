@@ -4,6 +4,19 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [2.1.0] — 2026-05-24
+
+### Updated: Metrics, URLs, NestJS project, and footer cleanup
+
+- ✅ **LinkedIn URL** updated to custom URL `linkedin.com/in/yogigaek`
+- ✅ **Website URL** updated to `muhammadyogi.vercel.app` (Vercel deployment)
+- ✅ **Integrations metric** updated `40+` → `50+` (total across career: 40+ Indogrosir + 10+ AUDY)
+- ✅ **Professional Impact** — Integrations line updated to `50+ banks, fintech partners, enterprise systems`
+- ✅ **NestJS Migration project** description updated to reflect actual migration scope: 3 Lambda projects → NestJS monolith, auth re-engineered, OpenTelemetry added
+- ✅ **Footer** — removed availability badges (Client Projects, Consulting) — kept LeetCode badge only
+
+---
+
 ## [2.0.2] — 2026-05-13
 
 ### Updated: AUDY employment distinction + Messaging section rename
