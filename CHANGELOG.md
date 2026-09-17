@@ -4,6 +4,21 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [2.2.0] — 2026-09-17
+
+### Updated: aligned with the redesigned portfolio site (accuracy pass)
+
+- ✅ **Overclaim softened** — "2x faster than deadline — every single project" → "~2x faster than planned — typically half the planned time", matching the toned-down claim now used on the portfolio, CV, and one-pagers
+- ✅ **NestJS migration marked complete** — removed "(active)" from Currently Working On; the migration finished, so it's no longer an in-progress item
+- ✅ **Internal monitoring platform reworded** — "Building... from scratch" → "Maintaining and evolving" (150+ features, 20+ users), since it's already built and live, not in progress
+- ✅ **Removed fabricated tech stack** — Next.js, Gin, and Flask badges dropped; none of these appear in the portfolio's actual skills/project data
+- ✅ **New: LeetCode link** — badge was previously a dead image (no href); now wrapped in a real link to `leetcode.com/u/yogigaek`
+- ✅ **New: GitLab cross-link** added to header badges and footer, matching the portfolio's cross-linking of GitHub/GitLab/LeetCode
+- ✅ **Career Tenure line reworded** — "4-year mission-critical engagement" (read as one continuous contract) → "4+ years across enterprise fintech & healthcare" (total career, matching the portfolio)
+- ✅ **"Who I Am" now mentions healthcare explicitly**, not just financial systems
+
+---
+
 ## [2.1.0] — 2026-05-24
 
 ### Updated: Metrics, URLs, NestJS project, and footer cleanup

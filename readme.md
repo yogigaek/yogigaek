@@ -5,6 +5,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yogigaek&color=blueviolet&style=for-the-badge)](https://github.com/yogigaek)
+[![GitLab](https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yogigaek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogigaek)
 [![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadyogi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogikgaek@gmail.com)
@@ -17,10 +18,10 @@
 
 ## 🎯 Who I Am
 
-Backend Software Engineer specializing in **financial systems** and **AWS Serverless** architectures — building payment platforms, credit facilities, POS integrations, and partner ecosystems at enterprise scale.
+Backend Software Engineer specializing in **financial systems** and **AWS Serverless** architectures — building payment platforms, credit facilities, POS integrations, and partner ecosystems at enterprise scale across financial and healthcare sectors.
 
 **Distinctive Expertise:**
-- ⚡ **2x faster delivery** — Consistently ahead of every deadline across 10+ financial projects
+- ⚡ **~2x faster than planned** — Projects typically delivered in about half the planned time
 - 🔗 **50+ integrations** — Banks, fintech partners, POS systems, payment gateways, enterprise platforms
 - 🛡️ **Enterprise-grade security** — OAuth 2.0, HMAC, JWT, RSA, and AES-256 per integration
 - 🚀 **7x performance boost** — Query optimization & materialized views delivering 700% improvement
@@ -31,10 +32,9 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 
 ## 🔭 Currently Working On
 
-- 🏗️ NestJS migration — consolidating 3 Lambda projects into a unified monolith (active)
 - ☁️ Cloud-native financial systems on AWS Serverless & event-driven architectures
 - 🔐 Secure API integrations across banks, fintech partners, and enterprise platforms
-- 📊 Building & evolving an internal monitoring platform from scratch — Laravel, React Inertia, PostgreSQL, and MySQL
+- 📊 Maintaining and evolving an internal monitoring platform (150+ features, 20+ users) — Laravel, React, PostgreSQL, and MySQL
 - 🤖 AI-assisted development workflows for accelerated, quality-assured delivery
 
 ---
@@ -55,12 +55,9 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LoopBack](https://img.shields.io/badge/LoopBack-3F5DBA?style=for-the-badge&logo=loopback&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,7 +87,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
     <td width="50%" valign="top">
       <h3 align="center">💳 Financial Platform APIs</h3>
       <div align="center">
-        <p><strong>⚡ 100+ APIs — 40+ Integrations — 2x Faster Delivery</strong></p>
+        <p><strong>⚡ 100+ APIs — 40+ Integrations — Delivered Ahead of Schedule</strong></p>
         <p>
           <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
         </p>
@@ -189,14 +186,14 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 ## 💼 Professional Impact
 
 ```text
-⚡  Delivery Speed:       2x faster than deadline — every single project
+⚡  Delivery Speed:       ~2x faster than planned — typically half the planned time
 🔗 Integrations:         50+ banks, fintech partners, enterprise systems
 🚀 APIs Built:           150+ production endpoints (100+ financial, 50+ healthcare)
 📈 Performance:          7x faster queries — 700% reporting improvement
 🏗️  Projects Delivered:   10+ financial service projects (payment, credit, POS)
 🛡️  Security Standards:   OAuth 2.0, HMAC, JWT, RSA, AES-256
 🔧 Legacy Refactored:    10+ services with clean architecture
-⏱️  Enterprise Tenure:    4-year mission-critical engagement
+⏱️  Career Tenure:        4+ years across enterprise fintech & healthcare
 ```
 
 ---
@@ -209,6 +206,8 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogikgaek@gmail.com)
 [![Website](https://img.shields.io/badge/Website-muhammadyogi.vercel.app-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadyogi.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogigaek)
+[![GitLab](https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yogigaek)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yogigaek-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yogigaek/)
 
 **📧 yogikgaek@gmail.com**
 
@@ -221,7 +220,4 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 
   **Building financial-grade systems that scale, secure, and deliver.**
 
-  <p>
-    <img src="https://img.shields.io/badge/LeetCode-yogigaek-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </p>
 </div>
