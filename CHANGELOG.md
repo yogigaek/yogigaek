@@ -4,6 +4,19 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [2.3.0] — 2026-10-07
+
+### Updated: aligned with the portfolio's new positioning and case study pages
+
+- ✅ **Positioning** — "Backend Software Engineer" → "Backend / Full-Stack Engineer" in the typing header and Who I Am, matching the portfolio, CV and LinkedIn headline
+- ✅ **New: Application Gateway** — internal payment integration platform (Laravel, React, TypeScript; 800+ automated tests), completed and pre-launch, added to Currently Working On and Notable Projects; described in general terms only (client work under NDA)
+- ✅ **New: case study links** — each NDA project now links to its page on the portfolio (`muhammadyogi.vercel.app/projects/<id>`)
+- ✅ **"20+ users" removed** from the monitoring platform line; its description now matches the portfolio (monitoring, reporting and management for financial operations teams)
+- ✅ **AUDY reworded** — "appointment and healthcare operations" → "healthcare management platform for clinics and hospitals"
+- ✅ **"NestJS Migration Blueprint" → "NestJS Migration"** — the migration is complete, not a plan
+
+---
+
 ## [2.2.0] — 2026-09-17
 
 ### Updated: aligned with the redesigned portfolio site (accuracy pass)

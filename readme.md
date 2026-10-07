@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Financial+%26+Healthcare+Systems;AWS+Serverless+%7C+Clean+Architecture;Client-Focused+%7C+Enterprise+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=650&lines=Backend+%2F+Full-Stack+Engineer;Financial+%26+Healthcare+Systems;AWS+Serverless+%7C+Clean+Architecture;Client-Focused+%7C+Enterprise+Delivery" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ## 🎯 Who I Am
 
-Backend Software Engineer specializing in **financial systems** and **AWS Serverless** architectures — building payment platforms, credit facilities, POS integrations, and partner ecosystems at enterprise scale across financial and healthcare sectors.
+Backend / Full-Stack Engineer specializing in **financial systems** and **AWS Serverless** architectures — building payment platforms, credit facilities, POS integrations, and partner ecosystems at enterprise scale across financial and healthcare sectors.
 
 **Distinctive Expertise:**
 - ⚡ **~2x faster than planned** — Projects typically delivered in about half the planned time
@@ -34,7 +34,8 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 
 - ☁️ Cloud-native financial systems on AWS Serverless & event-driven architectures
 - 🔐 Secure API integrations across banks, fintech partners, and enterprise platforms
-- 📊 Maintaining and evolving an internal monitoring platform (150+ features, 20+ users) — Laravel, React, PostgreSQL, and MySQL
+- 📊 Maintaining and evolving an internal monitoring platform (150+ features) — Laravel, React, PostgreSQL, and MySQL
+- 🧩 Built Application Gateway from scratch — an internal payment integration platform (Laravel, React, TypeScript; 800+ automated tests), completed and pre-launch
 - 🤖 AI-assisted development workflows for accelerated, quality-assured delivery
 
 ---
@@ -99,6 +100,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
           <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square"/>
         </p>
         <p>Mission-critical financial platform — payment, credit facilities, POS, and enterprise partner integrations on AWS Serverless</p>
+        <p><a href="https://muhammadyogi.vercel.app/projects/financial-platform">Read the case study →</a></p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -115,7 +117,8 @@ Building financial-grade systems with clean architecture, cloud-native design, a
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         </p>
-        <p>Core monitoring platform built from zero — Laravel, React Inertia, PostgreSQL, and MySQL for real-time observability across financial services</p>
+        <p>Unified internal platform built from scratch to replace legacy tools — monitoring, reporting, and management workflows for financial operations teams</p>
+        <p><a href="https://muhammadyogi.vercel.app/projects/monitoring-platform">Read the case study →</a></p>
       </div>
     </td>
   </tr>
@@ -134,11 +137,12 @@ Building financial-grade systems with clean architecture, cloud-native design, a
           <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         </p>
-        <p>Backend system for appointment and healthcare operations — query optimization and materialized views boosted reporting performance by 7x</p>
+        <p>Backend for a healthcare management platform for clinics and hospitals — query optimization and materialized views boosted reporting performance by 7x</p>
+        <p><a href="https://muhammadyogi.vercel.app/projects/healthcare-system">Read the case study →</a></p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔄 NestJS Migration Blueprint</h3>
+      <h3 align="center">🔄 NestJS Migration</h3>
       <div align="center">
         <p><strong>🚀 Platform Architecture Overhaul</strong></p>
         <p>
@@ -153,6 +157,27 @@ Building financial-grade systems with clean architecture, cloud-native design, a
           <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
         </p>
         <p>Migrated 3 Lambda projects into a unified NestJS monolith — 50+ APIs rebuilt, auth re-engineered (OAuth 2.0, JWT RS256, HMAC-SHA256, AES-256-GCM), full observability via OpenTelemetry</p>
+        <p><a href="https://muhammadyogi.vercel.app/projects/nestjs-migration">Read the case study →</a></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🧩 Application Gateway</h3>
+      <div align="center">
+        <p><strong>🏗️ Built Solo From Scratch — 800+ Automated Tests — Completed, Pre-launch</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Private_%C2%B7_NDA-Confidential-red?style=for-the-badge&logo=github&logoColor=white" alt="Private · NDA"/>
+        </p>
+        <p><strong>Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
+        <p>Internal platform for managing payment integrations, credentials, and client API keys across environments — role-based access, two-factor authentication, and audit logging</p>
+        <p><a href="https://muhammadyogi.vercel.app/projects/application-gateway">Read the case study →</a></p>
       </div>
     </td>
   </tr>
