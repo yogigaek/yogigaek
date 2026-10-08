@@ -36,6 +36,7 @@ Building financial-grade systems with clean architecture, cloud-native design, a
 - 🔐 Secure API integrations across banks, fintech partners, and enterprise platforms
 - 📊 Maintaining and evolving an internal monitoring platform (150+ features) — Laravel, React, PostgreSQL, and MySQL
 - 🧩 Built Application Gateway from scratch — an internal payment integration platform (Laravel, React, TypeScript; 800+ automated tests), completed and pre-launch
+- 🐹 Building in Go — [webhook-relay](https://github.com/yogigaek/webhook-relay), an open-source service for reliable payment webhooks (PostgreSQL, OpenTelemetry)
 - 🤖 AI-assisted development workflows for accelerated, quality-assured delivery
 
 ---
@@ -178,6 +179,27 @@ Building financial-grade systems with clean architecture, cloud-native design, a
         </p>
         <p>Internal platform for managing payment integrations, credentials, and client API keys across environments — role-based access, two-factor authentication, and audit logging</p>
         <p><a href="https://muhammadyogi.vercel.app/projects/application-gateway">Read the case study →</a></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🔁 Webhook Relay</h3>
+      <div align="center">
+        <p><strong>🐹 Open Source in Go — Idempotent Payment Webhooks with Retries &amp; Dead-Letter</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Open_Source-MIT-2ECC71?style=for-the-badge&logo=github&logoColor=white" alt="Open Source · MIT"/>
+        </p>
+        <p><strong>Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+        </p>
+        <p>Receives payment-provider webhooks, verifies HMAC signatures with a replay window, stores each event once in PostgreSQL even when duplicates arrive together, and relays it with retries, exponential backoff, and a dead-letter state — traced end to end with OpenTelemetry</p>
+        <p><a href="https://github.com/yogigaek/webhook-relay">View the source →</a></p>
       </div>
     </td>
   </tr>

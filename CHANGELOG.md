@@ -4,6 +4,15 @@ All notable changes to this GitHub profile README are documented here.
 
 ---
 
+## [2.4.0] — 2026-10-08
+
+### Added: Webhook Relay, an open-source Go project
+
+- ✅ **New: Webhook Relay** in Notable Projects — a public Go service for reliable payment webhooks (HMAC verification with a replay window, idempotent storage in PostgreSQL, retries with backoff and dead-letter, OpenTelemetry tracing, CI against a real database), linking to [github.com/yogigaek/webhook-relay](https://github.com/yogigaek/webhook-relay)
+- ✅ **Currently Working On** — added "Building in Go", the first public code behind Go in the tech stack
+
+---
+
 ## [2.3.0] — 2026-10-07
 
 ### Updated: aligned with the portfolio's new positioning and case study pages
